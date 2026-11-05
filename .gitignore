@@ -1,0 +1,19 @@
+##ignore CSS files
+*.css
+
+##ignore script files
+*.js
+
+##ignore log files
+*.log
+
+
+##ignore environment files
+*.env
+
+##ignore backup files
+*.bak
+
+
+##ignore dependency files
+node_modules/
